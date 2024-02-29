@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T17:49:47 IST" name="Suite" finished-at="2024-02-29T17:50:31 IST" duration-ms="44586">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T17:49:47 IST" name="Test" finished-at="2024-02-29T17:50:31 IST" duration-ms="44586">
+      <class name="OrangeHRM.OrangeHRM.Attachments">
+        <test-method signature="Log()[pri:0, instance:OrangeHRM.OrangeHRM.Attachments@71238fc2]" started-at="2024-02-29T17:50:06 IST" name="Log" finished-at="2024-02-29T17:50:16 IST" duration-ms="9448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log -->
+        <test-method is-config="true" signature="addattach()[pri:0, instance:OrangeHRM.OrangeHRM.Attachments@71238fc2]" started-at="2024-02-29T17:50:16 IST" name="addattach" finished-at="2024-02-29T17:50:18 IST" duration-ms="2342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addattach -->
+      </class> <!-- OrangeHRM.OrangeHRM.Attachments -->
+      <class name="OrangeHRM.OrangeHRM.immegration">
+        <test-method signature="Log()[pri:0, instance:OrangeHRM.OrangeHRM.immegration@6a84a97d]" started-at="2024-02-29T17:49:47 IST" name="Log" finished-at="2024-02-29T17:50:03 IST" duration-ms="16020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log -->
+        <test-method is-config="true" signature="immi()[pri:0, instance:OrangeHRM.OrangeHRM.immegration@6a84a97d]" started-at="2024-02-29T17:50:03 IST" name="immi" finished-at="2024-02-29T17:50:06 IST" duration-ms="3606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- immi -->
+      </class> <!-- OrangeHRM.OrangeHRM.immegration -->
+      <class name="OrangeHRM.OrangeHRM.Job">
+        <test-method signature="Log()[pri:0, instance:OrangeHRM.OrangeHRM.Job@2a54a73f]" started-at="2024-02-29T17:50:18 IST" name="Log" finished-at="2024-02-29T17:50:28 IST" duration-ms="10199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log -->
+        <test-method is-config="true" signature="jobs()[pri:0, instance:OrangeHRM.OrangeHRM.Job@2a54a73f]" started-at="2024-02-29T17:50:28 IST" name="jobs" finished-at="2024-02-29T17:50:31 IST" duration-ms="2899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobs -->
+      </class> <!-- OrangeHRM.OrangeHRM.Job -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
